@@ -14,5 +14,56 @@ public class AppTest2 {
   public void shoulsdAnswerWithTrue() {
     assertTrue(true);
   }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
+  
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
 }
 }

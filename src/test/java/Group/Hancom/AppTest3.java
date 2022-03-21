@@ -6,7 +6,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class AppTest3 {
     
-  @Test
+  @Test @Test
+  public void shouldAnswerWithTrue() {
+	    assertTrue(true);
+	  }
+	}
   public void shouldAnswerWithTrue() {
     assertTrue(true);
   }

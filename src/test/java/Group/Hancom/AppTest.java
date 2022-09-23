@@ -320,5 +320,11 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
     assertTrue(true);
   }
+  @Test
+  public void shouldAnswerWithTrue1() {
+    assertTrue(true);
+  }
 }
+}
+
 >>>>>>> Stashed changes
